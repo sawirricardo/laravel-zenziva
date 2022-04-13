@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Sawirricardo\Zenziva\Laravel\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class ZenzivaCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-zenziva';
 
     public $description = 'My command';
 
