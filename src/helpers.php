@@ -2,7 +2,7 @@
 
 use Sawirricardo\Zenziva\Laravel\Zenziva;
 
-if (!function_exists('zenviva')) {
+if (! function_exists('zenviva')) {
     /**
      * Get the available configuration options.
      *

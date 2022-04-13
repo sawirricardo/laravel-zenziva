@@ -3,7 +3,6 @@
 namespace Sawirricardo\Zenziva\Laravel;
 
 use Illuminate\Contracts\Config\Repository;
-use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Facades\Http;
 use Illuminate\Support\Traits\Conditionable;
 use Illuminate\Support\Traits\Macroable;

@@ -4,7 +4,6 @@ namespace Sawirricardo\Zenziva\Laravel;
 
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Sawirricardo\Zenziva\Commands\ZenzivaCommand;
 
 class ZenzivaServiceProvider extends PackageServiceProvider
 {
